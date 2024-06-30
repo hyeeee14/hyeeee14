@@ -15,6 +15,10 @@
 ## Tech Skills👩🏻‍💻 </br>
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![colab](https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
+
+
 
 ## Program Skills🖱️</br>
 <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat&logo=Adobe InDesign&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
