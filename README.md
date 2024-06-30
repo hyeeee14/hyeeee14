@@ -12,8 +12,7 @@
 <a href="https://hai.seoultech.ac.kr/index.do"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
 ## Tech Skills👩🏻‍💻 </br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## Program Skills🖱️</br>
@@ -34,7 +33,7 @@
 
 
 <!--
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 **hyeeee14/hyeeee14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
