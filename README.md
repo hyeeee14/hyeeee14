@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=ttps%3A%2F%2F%2F%2Fgithub.com%2Fhyeeee14&count_bg=%233D9EC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 <!--
 **hyeeee14/hyeeee14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
