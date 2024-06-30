@@ -7,7 +7,7 @@ SNS </br>
 <a href="https://www.instagram.com/tteokhyerim"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 Skills </br>
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+<a href=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white/>
 
 
 
