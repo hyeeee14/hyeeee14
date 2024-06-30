@@ -16,7 +16,7 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![colab](https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-
+![openai](https://img.shields.io/badge/Chatgpt-412991?style=flat&logo=Openai&logoColor=white)
 
 
 
