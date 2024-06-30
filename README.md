@@ -1,8 +1,8 @@
 ## Hi🤚✨
 
 SNS </br>
-<a href="https://www.linkedin.com/in/hanhyerim/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-
+<a href="https://www.linkedin.com/in/hanhyerim/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
+<a href="https://github.com/hyeeee14"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="https://www.instagram.com/tteokhyerim"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
