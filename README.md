@@ -1,4 +1,4 @@
-## Hi🤚✨
+## Hi🤚 I'm hyerim✨ 
 
 SNS </br>
 <a href="https://www.linkedin.com/in/hanhyerim/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
