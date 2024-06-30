@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/tteokhyerim"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
 ## Contact me🤳 </br>
-<a href="https://hai.seoultech.ac.kr/index.do"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://hai.seoultech.ac.kr/index.do"><img src="https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white"/></a>
 
 ## Tech Skills👩🏻‍💻 </br>
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
