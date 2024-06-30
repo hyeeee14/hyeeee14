@@ -21,7 +21,7 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeeee14&count_bg=%233D99C8&title_bg=%23555555&icon=retroarch.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://img.shields.io/github/commits-since/{hyeeee14}/{hyeeee14}/{version}.svg)
+[![commits](https://img.shields.io/github/commits-since/{hyeeee14}/{hyeeee14}/{v.1.0.0}.svg)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeee14)](https://github.com/anuraghazra/github-readme-stats)
