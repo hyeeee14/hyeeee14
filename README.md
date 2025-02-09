@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&random=false&width=435&lines=Hi%F0%9F%A4%9A+I'm+hyerim%E2%9C%A8)](https://git.io/typing-svg)
 
 ## Who am I?👩🏻‍💻 </br>
-**Research Interests** 🖥️ LLM, Multi-agent system, HCI </br>
-**All about me** 
+**Research Interests** 🖥️ *LLM, Multi-agent system, HCI* </br>
+**All about me _"AI reseracher"_** 
 <a href="https://www.linkedin.com/in/hanhyerim/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
 <a href="https://github.com/hyeeee14"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <a href="https://scholar.google.com/citations?user=XyPpek4AAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=Google Scholar&logoColor=white"/>
