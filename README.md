@@ -12,8 +12,9 @@
 </br>
 
 **Project** 📽️
-  1. [Accepted] [IEEE 2023 멀티모달 스파이킹 뉴럴 네트워크의 성능 분석](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11522582)
-  2. [On-going] Career Counseling Chatbot with Streamlit and Github in [HAI LAB, Seoultech](https://hai.seoultech.ac.kr/)
+  1. [Accepted] [머신러닝 알고리즘 기법을 이용한 뇌파 기반의 마취 후 회복실에서의 통증 분류 및 분석](https://www.linkedin.com/in/hanhyerim/details/publications/)
+  2. [Accepted] [IEEE 2023 멀티모달 스파이킹 뉴럴 네트워크의 성능 분석](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11522582)
+  3. [On-going] Career Counseling Chatbot with Streamlit and Github in [HAI LAB, Seoultech](https://hai.seoultech.ac.kr/)
 ## Contact me🤳 </br>
 <a href="https://hai.seoultech.ac.kr/index.do"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white"/>
 <a href="mailto:hanhyerim@seoultech.ac.kr"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat&logo=Mail.Ru&logoColor=white"/></a>
