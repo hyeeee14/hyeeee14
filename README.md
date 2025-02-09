@@ -4,16 +4,16 @@
 
 ## Who am I?👩🏻‍💻 </br>
 **Research Interests** 🖥️ LLM, Multi-agent system, HCI </br>
-**Project** 📽️
-  1. [Accepted] [IEEE 2023 멀티모달 스파이킹 뉴럴 네트워크의 성능 분석](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11522582)
-  2. [On-going] Career Counseling Chatbot with Streamlit and Github in [HAI LAB, Seoultech](https://hai.seoultech.ac.kr/)
-</br>
-**All about me!** 
+**All about me** 
 <a href="https://www.linkedin.com/in/hanhyerim/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
 <a href="https://github.com/hyeeee14"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <a href="https://scholar.google.com/citations?user=XyPpek4AAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=Google Scholar&logoColor=white"/>
 <a href="https://www.instagram.com/tteokhyerim"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+</br>
 
+**Project** 📽️
+  1. [Accepted] [IEEE 2023 멀티모달 스파이킹 뉴럴 네트워크의 성능 분석](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11522582)
+  2. [On-going] Career Counseling Chatbot with Streamlit and Github in [HAI LAB, Seoultech](https://hai.seoultech.ac.kr/)
 ## Contact me🤳 </br>
 <a href="https://hai.seoultech.ac.kr/index.do"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white"/>
 <a href="mailto:hanhyerim@seoultech.ac.kr"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat&logo=Mail.Ru&logoColor=white"/></a>
